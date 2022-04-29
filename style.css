@@ -58,6 +58,11 @@ header{
     margin-top: 16px;
 }
 
+.contador p{
+    text-align: center;
+    font-weight: bold;
+}
+
 nav{
     position: absolute;
     left: 100px;
